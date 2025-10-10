@@ -2,7 +2,7 @@
 
 # Práctica 1: Diseño de controladores
 
-## Información del estudiante
+## Información de la estudiante
 Karla V. Garcia [22212385]; L22212385@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
